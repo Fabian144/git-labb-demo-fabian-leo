@@ -17,6 +17,6 @@
 ## Checklista
 
 - [x] Jag har kört appen och sett att buggen är borta
-- [ ] Commit-meddelandet följer conventional commits
-- [ ] Grenen utgår från färskt `main`
-- [ ] Ticketets "Klar när"-punkter är avbockade
+- [x] Commit-meddelandet följer conventional commits
+- [x] Grenen utgår från färskt `main`
+- [x] Ticketets "Klar när"-punkter är avbockade
