@@ -20,10 +20,10 @@ Men datan innehåller inte alltid 24 timmar. Just nu ligger 22 timmar i listan �
 
 ## Klar när
 
-- [ ] `averagePrice` delar med antalet timmar som faktiskt finns i listan
-- [ ] Snittpriset i appen stämmer med en handräkning
-- [ ] Funktionen returnerar fortfarande `0` för en tom lista
-- [ ] Kommentaren i koden är uppdaterad eller borttagen — den beskriver ju det gamla, felaktiga antagandet
+- [x] `averagePrice` delar med antalet timmar som faktiskt finns i listan
+- [x] Snittpriset i appen stämmer med en handräkning
+- [x] Funktionen returnerar fortfarande `0` för en tom lista
+- [x] Kommentaren i koden är uppdaterad eller borttagen — den beskriver ju det gamla, felaktiga antagandet
 
 ## Föreslaget commit-meddelande
 
